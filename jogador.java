@@ -10,7 +10,7 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
-public class Main {
+public class jogador {
     private static final ArrayList<Set<Integer>> conjuntosDeNumeros = new ArrayList<>();
 
     public static void main(String[] args) {
